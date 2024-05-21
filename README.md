@@ -5,9 +5,12 @@ This project aims to classify plant diseases using deep learning techniques. The
 ## Project Overview
 
 - **GitHub Repository:** [Plant Disease Classification](https://github.com/Rishika20-coder/Plant-Disease)
-- ![WhatsApp Image 2024-05-21 at 17 02 16_9f3289aa](https://github.com/Rishika20-coder/Plant-Disease/assets/74089987/cf84b136-5021-415e-91f9-a3119e6df143)
-- ![WhatsApp Image 2024-05-21 at 17 02 17_a42dad8c](https://github.com/Rishika20-coder/Plant-Disease/assets/74089987/9bff0c49-5ccd-482a-96ab-12dca7546b80)
-- ![WhatsApp Image 2024-05-21 at 17 02 15_a095da42](https://github.com/Rishika20-coder/Plant-Disease/assets/74089987/a0670c1a-cde2-4e8d-8dd0-9c40a20da716)
+- ![WhatsApp Image 2024-05-21 at 17 05 29_4f65a9d9](https://github.com/Rishika20-coder/Plant-Disease/assets/74089987/899cc510-5120-4cf4-9284-7dda8e36c681)
+- ![WhatsApp Image 2024-05-21 at 17 04 31_83f4a907](https://github.com/Rishika20-coder/Plant-Disease/assets/74089987/1f979b12-36b6-4350-b0b5-37f1a3b77d24)
+- ![WhatsApp Image 2024-05-21 at 17 04 31_d87fc8d0](https://github.com/Rishika20-coder/Plant-Disease/assets/74089987/3348730f-413e-4662-a271-809a5ffe500e)
+
+
+
 
 
 
